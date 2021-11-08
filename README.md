@@ -1,1 +1,1 @@
-This is a practice exercise.
+This is an updated message for the README file
